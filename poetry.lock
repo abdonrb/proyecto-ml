@@ -2418,6 +2418,16 @@ files = [
 ]
 
 [[package]]
+name = "mord"
+version = "0.7"
+description = "Ordinal regression models"
+optional = false
+python-versions = "*"
+files = [
+    {file = "mord-0.7.tar.gz", hash = "sha256:b60002734e33ca7fad9f94999c70b27fe038eb069cbd0fb08d6027c3d34a7bb3"},
+]
+
+[[package]]
 name = "multitasking"
 version = "0.0.11"
 description = "Non-blocking Python methods using decorators"
@@ -5510,4 +5520,4 @@ cffi = ["cffi (>=1.11)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "3a5b6dbee328bff1613c6ac10f7761b94303d6391a1c05157ce9b3c43caf2f37"
+content-hash = "d3bdb85158b11ad81e76df00e9be70f1b6990b893f3b35f6f9b1dd3995ec83a1"
