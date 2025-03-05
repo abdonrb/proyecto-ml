@@ -1,4 +1,4 @@
-# Analisis Exploratorio  de Global Sales.
+# Proyecto de MAchine Learning "Global Sales".
 ![MPG Analysis Banner](https://www.velfix.es/wp-content/uploads/2021/12/Velfix-programa-ropa.png)
 
 ---
