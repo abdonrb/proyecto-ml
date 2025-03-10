@@ -12,6 +12,9 @@ prophet = "^1.1.6"
 scikit-learn = "^1.6.1"
 seaborn = "^0.13.2"
 xgboost = "^2.1.4"
+statsmodels = "^0.14.4"
+skforecast = "^0.14.0"
+numpy = "^2.1"
 
 
 [tool.poetry.group.dev.dependencies]
