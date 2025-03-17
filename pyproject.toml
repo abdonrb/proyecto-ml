@@ -16,6 +16,7 @@ statsmodels = "^0.14.4"
 skforecast = "^0.14.0"
 numpy = "^2.1"
 imblearn = "^0.0"
+lightgbm = "^4.6.0"
 
 
 [tool.poetry.group.dev.dependencies]
